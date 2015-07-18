@@ -7,6 +7,8 @@
         public const string AppName = "MongoDb";
         public const string ProcessedIn = "processed-in";
 
+        public const string DefaultEmptyStringValue = "";
+
 #region Swagger Constants
         public const string SwaggerVersion = "1.0";
         public const string WebApiNamespace = "MangoDbEnterprise.WebAPI";
